@@ -5,7 +5,7 @@
 /// @brief Precompile the crawler into a PYD, this allows for the source
 ///         code to be hidden.
 /// @pre Requires crawler.py in the SAME directory.
-/// @style K&R, and "one true brace style" (OTBS), and '_' variable naming
+/// @style K&R, "one true brace style" (OTBS), and '_' variable naming
 /////////////////////////////////////////////////////////////////////
 /// @references
 /// ## N/A

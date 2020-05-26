@@ -4,7 +4,7 @@
 /// @date 2020-04-20
 /// @brief Search CAS number and return name and standardized number
 /// @pre No preprocessing required
-/// @style K&R, and "one true brace style" (OTBS), and '_' variable naming
+/// @style K&R, "one true brace style" (OTBS), and '_' variable naming
 /////////////////////////////////////////////////////////////////////
 /// @references
 /// ## https://webbook.nist.gov/chemistry/cas-ser/
